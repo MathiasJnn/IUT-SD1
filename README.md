@@ -1,1 +1,1 @@
-Chacun de mes TD et TP sont représentatés dans ce repository
+Chacun de mes TD et TP du premier et deuxième semestres sont représentés dans ce repository.
