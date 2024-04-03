@@ -2,7 +2,7 @@ Chacun de mes TD et TP du premier et deuxième semestres sont représentés dans
 
 Voici le planning (la composition de chaque TP/TD) qui le constitue:
 
-TD1 : Les bases de R et les vecteurs
+TD1 : Les bases de R et les vecteurs.
 TP1 : Les bases des dataframes
 TD2 : Importer et manipulation de dataframe
 TP2 : Rappel et cas pratique
